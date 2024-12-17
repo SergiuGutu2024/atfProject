@@ -19,7 +19,7 @@ giving a clear view of how tests went.
 
 - Java JDK 12 or later.
 - Maven 3.9.6 or later (for dependency management and project building).
-- An instance of postgress database.
+- An instance of Postgress database.
 - An instance of Report Portal (for reporting purposes).
 
 ## Installation
@@ -44,3 +44,4 @@ giving a clear view of how tests went.
     ```
 3. **Viewing Reports**: After test execution, navigate to your Report Portal dashboard to view the test reports and
    analytics.
+4. Create Image details.
